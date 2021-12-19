@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1591680578 source:c:\users\t440\desktop\proyecto_final\proyecto_final.c
+	<iostream>
+	<graphics.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"laberinto.h"
+	<time.h>
+
+1266123014 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1591681670 c:\users\t440\desktop\proyecto_final\laberinto.h
+	<time.h>
+
+1591680578 source:c:\users\t440\desktop\proyecto_final_speedrun\proyecto_final.c
+	<iostream>
+	<graphics.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"laberinto.h"
+	<time.h>
+
+1591681670 c:\users\t440\desktop\proyecto_final_speedrun\laberinto.h
+	<time.h>
+
